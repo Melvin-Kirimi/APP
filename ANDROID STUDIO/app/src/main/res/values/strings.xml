@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mid</string>
+    <string name="title_activity_chat2">ChatActivity2</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_image2">ImageActivity2</string>
+    <string name="title_activity_input2">InputActivity2</string>
+</resources>
